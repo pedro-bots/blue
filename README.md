@@ -1,17 +1,17 @@
-⚡ BLUE BLACKOUT - O Bot Supremo para WhatsApp
+BLUE SYSTEM💧- O Bot Supremo para WhatsApp
 ![nazuna Bot Banner](https://raw.githubusercontent.com/nazuninha/uploads/main/fotos/1768184473800_5fubvh.jpg)
 
-Seja bem-vindo ao repositório oficial do *BLUE BLACKOUT*, o bot mais insano, completo e personalizado da cena! Desenvolvido com foco em performance, estilo e funcionalidade, o BLUE BLACKOUT foi criado pra quem curte um bot poderoso, bonito e cheio de atitude.
+Seja bem-vindo ao repositório oficial do *BLUE SYSTEM*, o bot mais insano, completo e personalizado da cena! Desenvolvido com foco em performance, estilo e funcionalidade, o BLUE BLACKOUT foi criado pra quem curte um bot poderoso, bonito e cheio de atitude.
 
 ---
 
 👑 Sobre o Desenvolvedor
 
-Criado e mantido por *Pedro Blackout*, um dev que ama programar. Cada detalhe do BLUE foi pensado pra entregar algo único, com funções úteis, menus bonitos e respostas rápidas — sem copiar ninguém.
+Criado e mantido por *Pedro System*, um dev que ama programar. Cada detalhe do BLUE foi pensado pra entregar algo único, com funções úteis, menus bonitos e respostas rápidas — sem copiar ninguém.
 
 ---
 
-🚀 O que o BLUE BLACKOUT oferece?
+🚀 O que o BLUE SYSTEM oferece?
 
 - Integração com WhatsApp via multi-dispositivo
 - Vários comandos úteis, engraçados e até insanos
