@@ -1,4 +1,4 @@
-BLUE SYSTEM💧- O Bot Supremo para WhatsApp
+BLUE SYSTEM💧- O Bot 
 ![nazuna Bot Banner](https://raw.githubusercontent.com/nazuninha/uploads/main/fotos/1768184473800_5fubvh.jpg)
 
 Seja bem-vindo ao repositório oficial do *BLUE SYSTEM*, o bot mais insano, completo e personalizado da cena! Desenvolvido com foco em performance, estilo e funcionalidade, o BLUE BLACKOUT foi criado pra quem curte um bot poderoso, bonito e cheio de atitude.
