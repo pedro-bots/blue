@@ -23,4 +23,4 @@ Criado e mantido por *Pedro System*, um dev que ama programar. Cada detalhe do B
 
 🧠 Ideal para quem?
 
-Se você quer um bot no seu grupo que realmente chama atenção, entrega funcionalidades reais e ainda tem presença, o BLUE BLACKOUT é pra você. Criado com dedicação e código limpo — do jeitinho que tem que ser.
+Se você quer um bot no seu grupo que realmente chama atenção, entrega funcionalidades reais e ainda tem presença, o BLUE SYSTEM é pra você. Criado com dedicação e código limpo — do jeitinho que tem que ser.
